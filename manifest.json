@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "github.com/fatih/color": {},
+        "github.com/masatana/go-textdistance": {},
+        "github.com/olekukonko/tablewriter": {}
+    }
+}
