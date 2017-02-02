@@ -1,0 +1,61 @@
+{
+    "memo": "56a3660465438fb10fc3e514d77a1571927570e4d50f0f55e85cdb8eea76359a",
+    "projects": [
+        {
+            "name": "github.com/deckarep/golang-set",
+            "version": "v1.5",
+            "revision": "52ba7f28f319e9d560acbf47c7fcf9b9ee7aa7d3",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/fatih/color",
+            "version": "v1.2",
+            "revision": "34e4ee095d12986a2cef5ddb9aeb3b8cfcfea17c",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/masatana/go-textdistance",
+            "branch": "master",
+            "revision": "15c30c968fddf3e2c5c4175fbdb4f9eebbbb8802",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/mattn/go-colorable",
+            "version": "v0.0.6",
+            "revision": "ed8eb9e318d7a84ce5915b495b7d35e0cfe7b5a8",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/mattn/go-isatty",
+            "version": "v0.0.1",
+            "revision": "3a115632dcd687f9c8cd01679c83a06a0e21c1f3",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/pkg/errors",
+            "version": "v0.8.0",
+            "revision": "645ef00459ed84a119197bfb8d8205042c6df63d",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "golang.org/x/sys",
+            "branch": "master",
+            "revision": "7a6e5648d140666db5d920909e082ca00a87ba2c",
+            "packages": [
+                "unix"
+            ]
+        }
+    ]
+}
