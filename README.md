@@ -1,5 +1,5 @@
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/mbobakov/stutterlog)](https://goreportcard.com/report/github.com/mbobakov/stutterlog)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mbobakov/stutterlog)](https://goreportcard.com/report/github.com/mbobakov/stutterlog) [![Build Status](https://travis-ci.org/mbobakov/stutterlog.svg?branch=master)](https://travis-ci.org/mbobakov/stutterlog)
 
 # stutterlog
 '''stutterlog''' is dead simple tool for search for dublicates in the log.
@@ -44,3 +44,6 @@ On 2 GHz Intel Core i7 / 8 GB 1600 MHz DDR3 / SSD. 1000 log lines with 512 symbo
 
     mbobakov$> time ./stutterlog 1000linedFile.log > /dev/null
             1.07 real         1.10 user         0.02 sys
+
+### Contibuting
+Go >= 1.7 is requirement. This tool use [dep](https://github.com/golang/dep) for dependency management. Pull Request are welcome. ;) 
