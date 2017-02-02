@@ -1,3 +1,6 @@
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/mbobakov/stutterlog)](https://goreportcard.com/report/github.com/mbobakov/stutterlog)
+
 # stutterlog
 '''stutterlog''' is dead simple tool for search for dublicates in the log.
 It's use [Damerau-Levenshtein distance](https://en.wikipedia.org/wiki/Damerau–Levenshtein_distance) for finding almost same log lines.
